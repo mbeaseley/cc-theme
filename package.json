@@ -1,13 +1,26 @@
 {
   "name": "cc-theme",
   "displayName": "cc-theme",
-  "description": "",
+  "description": "A minimal, high contrast theme based on Github dark for VS Code.",
   "version": "0.0.1",
+  "publisher": "Michael Beaseley",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbeaseley/cc-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mbeaseley/cc-theme.git"
+  },
   "engines": {
     "vscode": "^1.76.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "dark mode",
+    "theme"
   ],
   "contributes": {
     "themes": [
