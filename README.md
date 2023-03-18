@@ -1,16 +1,36 @@
-# cc-theme README
+<h1 align="center">
+  CC Theme
+</h1>
+<p align="center">A minimal, high contrast theme based on Github dark for VS Code.</p>
 
-## Working with Markdown
+[![Release][release-shield]][release-url]
+[![Made For VS Code][vscode-shield]][vscode-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## 🔽 Downloading
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Download the theme by either [downloading Github .zip](https://github.com/mbeaseley/cc-theme/archieve/main.zip) or by running this command in your terminal:
 
-## For more information
+```
+https://github.com/mbeaseley/cc-theme.git
+```
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## 💥 Installing and Activating
 
-**Enjoy!**
+Copy the theme folder and paste the VS Code extension directory which can be located at:
+
+- **Windows**: `%USERPROFILE%\.vscode\extensions`
+- **Mac/Linux**: `$HOME/.vscode/extensions`
+
+You can then activate the theme by going into cog found bottom left of interface and clicking into themes. Your theme should be selected in given list.
+
+> Note: If not found, restart VS Code and repeat.
+
+<!-- Links for project shields -->
+
+[release-shield]: https://img.shields.io/github/v/release/mbeaseley/cc-theme?display_name=tag&style=for-the-badge
+[release-url]: https://github.com/mbeaseley/cc-theme/releases
+[vscode-shield]: https://img.shields.io/badge/Made%20For-VS%20Code-blue?style=for-the-badge
+[vscode-url]: https://github.com/mbeaseley/cc-theme
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/michael-beaseley
