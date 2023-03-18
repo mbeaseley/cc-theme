@@ -1,12 +1,13 @@
 {
   "name": "CC Theme",
+  "type": "hcDark",
   "colors": {
     "activityBar.activeBackground": "#000000",
-    "activityBar.activeBorder": "#707070",
+    "activityBar.activeBorder": "#BC0404",
     "activityBar.background": "#000000",
     "activityBar.border": "#707070",
     "activityBar.foreground": "#E1E4E8",
-    "activityBar.inactiveForeground": "#6A737D",
+    "activityBar.inactiveForeground": "#E1E4E8",
     "activityBarBadge.background": "#0366D6",
     "activityBarBadge.foreground": "#FFFFFFFF",
     "badge.background": "#044289",
@@ -68,10 +69,10 @@
     "focusBorder": "#79C0FF",
     "foreground": "#D1D5DA",
     "gitDecoration.addedResourceForeground": "#79B8FF",
-    "gitDecoration.conflictingResourceForeground": "#FFAB70",
+    "gitDecoration.conflictingResourceForeground": "#E09B13",
     "gitDecoration.deletedResourceForeground": "#EA4A5A",
     "gitDecoration.ignoredResourceForeground": "#6A737D",
-    "gitDecoration.modifiedResourceForeground": "#79B8FF",
+    "gitDecoration.modifiedResourceForeground": "#E09B13",
     "gitDecoration.submoduleResourceForeground": "#6A737D",
     "gitDecoration.untrackedResourceForeground": "#489CFB",
     "gitlens.trailingLineForegroundColor": "#EB8CC4",
@@ -95,7 +96,7 @@
     "notificationToast.border": "#586069",
     "notificationsErrorIcon.foreground": "#EA4A5A",
     "notificationsInfoIcon.foreground": "#79B8FF",
-    "notificationsWarningIcon.foreground": "#FFAB70",
+    "notificationsWarningIcon.foreground": "#E09B13",
     "panel.background": "#000000",
     "panel.border": "#707070",
     "panelInput.border": "#2F363D",
@@ -143,6 +144,10 @@
     "tab.unfocusedActiveBorder": "#24292E",
     "tab.unfocusedActiveBorderTop": "#1B1F23",
     "tab.unfocusedHoverBackground": "#24292E",
+    "terminal.ansiBrightBlue": "#EB8CC4",
+    "terminal.ansiBlue": "#0366D6",
+    "terminal.ansiBrightGreen": "#EB8CC4",
+    "terminal.ansiGreen": "#79B8FF",
     "terminal.background": "#040507",
     "terminal.border": "#707070",
     "terminal.foreground": "#D1D5DA",
@@ -294,7 +299,7 @@
     {
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#FFAC70D3"
+        "foreground": "#E09B13"
       }
     },
     {
@@ -318,7 +323,7 @@
     {
       "scope": "meta.preprocessor.string",
       "settings": {
-        "foreground": "#FFAC70D3"
+        "foreground": "#E09B13"
       }
     },
     {
@@ -354,19 +359,19 @@
     {
       "scope": "string",
       "settings": {
-        "foreground": "#FFAC70D3"
+        "foreground": "#E09B13"
       }
     },
     {
       "scope": "string.tag",
       "settings": {
-        "foreground": "#FFAC70D3"
+        "foreground": "#E09B13"
       }
     },
     {
       "scope": "string.value",
       "settings": {
-        "foreground": "#FFAC70D3"
+        "foreground": "#E09B13"
       }
     },
     {
@@ -559,7 +564,7 @@
         "support.constant.color"
       ],
       "settings": {
-        "foreground": "#FFAC70D3"
+        "foreground": "#E09B13"
       }
     },
     {

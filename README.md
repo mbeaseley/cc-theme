@@ -25,10 +25,12 @@ https://github.com/mbeaseley/cc-theme.git
 
 ## 💥 Installing and Activating
 
-Copy the theme folder and paste the VS Code extension directory which can be located at:
+Copy the repo folder and paste the VS Code extension directory which can be located at:
 
 - **Windows**: `%USERPROFILE%\.vscode\extensions`
 - **Mac/Linux**: `$HOME/.vscode/extensions`
+
+> Note: Repo when copied needs to be within cc-theme folder.
 
 You can then activate the theme by going into cog found bottom left of interface and clicking into themes. Your theme should be selected in given list.
 

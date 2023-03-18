@@ -1,6 +1,6 @@
 {
   "name": "cc-theme",
-  "displayName": "cc-theme",
+  "displayName": "CC Theme",
   "description": "A minimal, high contrast theme based on Github dark for VS Code.",
   "version": "0.0.1",
   "publisher": "Michael Beaseley",
@@ -26,7 +26,7 @@
     "themes": [
       {
         "label": "CC Theme",
-        "uiTheme": "vs-dark",
+        "uiTheme": "hc-black",
         "path": "./themes/CC Theme-color-theme.json"
       }
     ]
